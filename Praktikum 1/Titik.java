@@ -1,6 +1,7 @@
 // Nama: Wildan Adji Prabowo
 // Nim : 24060121140097
-
+// Tanggal : 24 Febuari 2023
+// Deskripsi : Berupa file class titik
 class Titik {
 		double absis;
 		double ordinat;
