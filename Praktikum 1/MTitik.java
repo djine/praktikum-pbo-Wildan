@@ -1,5 +1,7 @@
 // Nama: Wildan Adji Prabowo
 // Nim : 24060121140097
+// Tanggal : 25 Febuari 2023
+// Deskripsi : Realisasi untuk menjalankan MTitik
 
 class MTitik{
 
